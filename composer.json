@@ -1,7 +1,7 @@
 {
     "name": "ivanciric/laracoord",
     "description": "Laravel 5 package for geolocation distance calculations",
-    "type": "Laravel Package",
+    "type": "Package",
     "license": "MIT",
     "authors": [
         {
@@ -9,7 +9,7 @@
             "email": "info@yoshi.tech"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
       "psr-4": {
