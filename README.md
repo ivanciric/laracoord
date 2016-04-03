@@ -33,6 +33,7 @@ You can now use the class:
     
     dd($g);
 
+
 Related links:
 
 http://mathworld.wolfram.com/Haversine.html
