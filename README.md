@@ -33,6 +33,7 @@ You can now use the class:
     
     dd($g);
 
+[![Screenshot](laracoord-scr.jpg)]
 
 Related links:
 
